@@ -19,6 +19,7 @@ print(numbs[0])  # Acesso ao primeiro elemento do conjunto convertido em lista
 
 # Metodos
 
+
 conjunto.union(conjunto2)  # União dos dois conjuntos
 conjunto.intersection(conjunto2)  # Interseção dos dois conjuntos
 conjunto.difference(conjunto2)  # Diferença entre os dois conjuntos
