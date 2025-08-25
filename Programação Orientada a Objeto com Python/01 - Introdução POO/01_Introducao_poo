@@ -1,0 +1,19 @@
+Paradigma de Programação Orientada a Objetos
+    - É um estilo e programação.
+    - Não é uma linguagem de programação.
+    - É uma forma como você soluciona os problemas através do código.
+    EXEMPLO:
+        Problema: Beber água.
+        Solução 1: Usar um copo para beber água.
+        Solução 2: Usar uma garrafa para beber água.
+
+    TIPOS DE PARADIGMA:
+        - Imperativo ou Procedutal
+        - Funcional
+        - Orientado a eventos
+        - Orientado a objetos
+
+    PROGRAMAÇÃO ORIENTADA A OBJETOS(POO):
+        - O paradigma de programação orientada a objetos estrutura o código abstraindo problemas em objetos do mundo real, facilitando o entendimento do código e tornando-o mais modular e extensível. Os dois conceitos principais da POO são:
+            - Classes: 
+            - Objetos:
