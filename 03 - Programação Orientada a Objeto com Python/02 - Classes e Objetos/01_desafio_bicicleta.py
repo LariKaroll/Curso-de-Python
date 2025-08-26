@@ -7,6 +7,9 @@ class Bicicleta:
     #self = instancia da propria classe para os objetos
     #__init__ = construtor
     
+    def __del__(self):
+        print(f"Modelo Removido -> {self.modelo}")
+    
     def buzinar(self):
         print("Plim, Plim...")
     
